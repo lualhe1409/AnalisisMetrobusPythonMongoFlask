@@ -3,11 +3,14 @@ Dado un archivo csv con informacion de las coordenadas de las unidades de metrob
 
 Version 1.0
 
-Nota:Tener instalado MongoDb localmente y usar postman para pruebas
+Nota:Tener instalado MongoDb localmente y usar postman para pruebas en el PDF vienen indicados algunos ejemplos
+
 
 Instrucciones:
+
 Instalar las librerias indicadas
+
 Ejecutar el archivo transform.py para tomar el csv y asi empezar a procesar y buscar las direcciones para posteriormente se guarden en MongoDB
 
 
-Ejecutar el archivo main este ya tiene configurado el puerto para realizar las pruebas localmente
+Ejecutar el archivo mainAPI este ya tiene configurado el puerto para realizar las pruebas localmente

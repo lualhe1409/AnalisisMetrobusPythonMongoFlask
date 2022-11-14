@@ -8,4 +8,6 @@ Nota:Tener instalado MongoDb localmente y usar postman para pruebas
 Instrucciones:
 Instalar las librerias indicadas
 Ejecutar el archivo transform.py para tomar el csv y asi empezar a procesar y buscar las direcciones para posteriormente se guarden en MongoDB
+
+
 Ejecutar el archivo main este ya tiene configurado el puerto para realizar las pruebas localmente
